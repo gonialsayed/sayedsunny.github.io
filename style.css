@@ -1,0 +1,129 @@
+@media(max-width:1023px){
+    .background2{
+        padding: 50px;
+    }
+    .head-work{
+        padding: 50px;
+    }
+    .sunny{
+        height: 200px;
+        width: 200px;
+        
+    }
+}
+
+
+
+@media(min-width:1024px){
+    .sub-header{
+        padding: 300px;
+    }
+    .col-md-8{
+        margin-top: 50px;
+    }
+
+    .background2{
+        padding: 300px;
+    }
+    .head-work{
+        padding: 300px;
+    }
+}
+
+.font-black-header{
+    font-size: 35px;
+    color: #333;
+    font-family: 'Montserrat Alternates', sans-serif;
+    letter-spacing: 3px;
+
+}
+.font-black-subheader{
+    font-size: 25px;
+    color: #333;
+    font-family: 'Montserrat Alternates', sans-serif;
+    letter-spacing: 3px;
+}
+.font-black-body{
+    font-size: 20px;
+    color: #333;
+    font-family: 'Montserrat Alternates', sans-serif;
+    letter-spacing: 3px;
+}
+.font-white-header{
+    font-size: 35px;
+    color: #FFFFFF;
+    font-family: 'Montserrat Alternates', sans-serif;
+    letter-spacing: 3px;
+}
+.font-white-body{
+    font-size: 20px;
+    color: #FFFFFF;
+    font-family: 'Montserrat Alternates', sans-serif;
+    letter-spacing: 3px;
+}
+
+.footer-text{
+    font-size: 15px;
+    color: #FFFFFF;
+    font-family: 'Montserrat Alternates', sans-serif;
+    letter-spacing: 3px;
+}
+
+.header-navbar{
+    background-color: rgba(0,0,0,0.7);
+    opacity: 0.7;  
+}
+
+header{
+    background-image: url(image/cover.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.sub-header{
+    background-color: rgba(0,0,0,0.7);
+    opacity: 0.7;
+    
+}
+.personal-info{
+    background-color: #FFFFFF;
+}
+
+.sunny{
+
+    border-radius: 50%;
+}
+.sunny:hover{
+    border: 5px solid snow;
+}
+.fa-2x{
+    color: lightblue;
+}
+
+footer{
+    background-color: black;
+}
+
+
+
+
+.background2{
+    background-image: url(image/educatinalinfo.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+
+ #work-background{
+     background-image: url(image/work.jpeg);
+     background-attachment: fixed;
+     background-size: cover;
+     background-repeat: no-repeat;
+ }
+ .worksecback{
+    background-color: rgba(0,0,0,0.7);
+    opacity: 0.7;
+}
